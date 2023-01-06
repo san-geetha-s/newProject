@@ -4,7 +4,7 @@ function index() {
   return (
     <div>
      <h1>Hello everyone!</h1>
-     <p>How are you?</P>
+     <p>How are you?</p>
     </div>
   )
 }
